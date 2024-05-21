@@ -1,0 +1,9 @@
+C:\Users\eaapen\source\repos\ClientSOAP\bin\Release\ClientSOAP.exe.config
+C:\Users\eaapen\source\repos\ClientSOAP\bin\Release\ClientSOAP.exe
+C:\Users\eaapen\source\repos\ClientSOAP\bin\Release\ClientSOAP.XmlSerializers.dll
+C:\Users\eaapen\source\repos\ClientSOAP\bin\Release\ClientSOAP.pdb
+C:\Users\eaapen\source\repos\ClientSOAP\obj\Release\ClientSOAP.csproj.AssemblyReference.cache
+C:\Users\eaapen\source\repos\ClientSOAP\obj\Release\ClientSOAP.csproj.CoreCompileInputs.cache
+C:\Users\eaapen\source\repos\ClientSOAP\obj\Release\ClientSOAP.exe
+C:\Users\eaapen\source\repos\ClientSOAP\obj\Release\ClientSOAP.pdb
+C:\Users\eaapen\source\repos\ClientSOAP\obj\Release\ClientSOAP.XmlSerializers.dll
